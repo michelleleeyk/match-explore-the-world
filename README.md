@@ -5,6 +5,6 @@ View and play game [here](https://match-explore-the-world.herokuapp.com/)
 
 ### Languages, Frameworks and Tools
 - Client Side: HTML, CSS, JavaScript  <br>
-- Server Side: Express.js, NeDB <br>
-- Testing: Mocha Test<br>
+- Server Side: Express.js, [NeDB](https://github.com/louischatriot/nedb) <br>
+- Testing: [Mocha Test](https://mochajs.org/)<br>
 - Best Practice & Accessibility: JSLint, [Axe Tool](https://www.deque.com/axe/) <br>
