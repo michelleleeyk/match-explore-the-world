@@ -5,7 +5,6 @@ View and play game [here](https://match-explore-the-world.herokuapp.com/)
 
  <br>
  **Languages, Frameworks and Tools** <br>
- **Languages**
 - Client Side: HTML, CSS, JavaScript  <br>
 - Server Side: Express.js, NeDB <br>
 - Testing: Mocha Test<br>
