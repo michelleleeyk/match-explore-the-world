@@ -4,7 +4,7 @@ Project was completed in 2 months from May-Jun 2020 for my 1st year university m
 View and play game [here](https://match-explore-the-world.herokuapp.com/)
 
  <br>
- **Languages, Frameworks and Tools** <br>
+ ##Languages, Frameworks and Tools
 - Client Side: HTML, CSS, JavaScript  <br>
 - Server Side: Express.js, NeDB <br>
 - Testing: Mocha Test<br>
