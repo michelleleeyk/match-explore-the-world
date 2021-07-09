@@ -6,5 +6,5 @@ View and play game [here](https://match-explore-the-world.herokuapp.com/)
 <br>
 * Client Side: HTML, CSS, JavaScript <br>
 * Server Side: Express.js, [NeDB](https://github.com/louischatriot/nedb) <br>
-* Testing: [Mocha Test](https://mochajs.org/) <br>
+[Mocha Test](https://mochajs.org/) <br>
 * Best Practice & Accessibility: JSLint, [Axe tool](https://www.deque.com/axe/)
